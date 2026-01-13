@@ -1,3 +1,11 @@
+### Nama: Fitri Ramadhani
+### NIM: 312410085
+### Kelas: TI.24.A.1
+### Mata Kuliah: Pemograman Web 1 (UAS)
+### Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.
+
+### Link Youtube: https://youtu.be/HWcQx_8NyvQ?si=Hbpnwy2-Og6yTglS
+
 # 📱 Sistem Manajemen Barang
 
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
