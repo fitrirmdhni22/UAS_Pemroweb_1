@@ -219,8 +219,8 @@ location / {
 1. Buka browser dan akses `http://localhost/uas_web`
 2. Jika melihat halaman login, artinya instalasi berhasil
 3. Login dengan kredensial default:
-   - Admin: admin@example.com / admin123
-   - User: user@example.com / user123
+   - Admin: admin / admin123
+   - User: user / user123
 
 ### 4. Troubleshooting
 - **Error koneksi database**: Periksa kredensial di `config/database.php`
@@ -421,3 +421,4 @@ uas_web/
 <img width="1366" height="688" alt="image" src="https://github.com/user-attachments/assets/17a5948f-517d-4d47-8007-5f3431dcd4a1" />
 
 ### Terima Kasih
+
