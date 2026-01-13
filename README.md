@@ -373,15 +373,43 @@ uas_web/
 ## 📱 Tampilan
 
 ### Halaman Login
-![Login Page](screenshots/login.png)
+<img width="1366" height="657" alt="image" src="https://github.com/user-attachments/assets/3aa4c0d5-15b9-481c-afc4-f7ca676f0006" />
+
+### Halaman Lupa Password
+<img width="1366" height="654" alt="image" src="https://github.com/user-attachments/assets/a77e487e-9f67-4b1a-b698-12df70110517" />
 
 ### Daftar Pengguna
-![User List](screenshots/user-list.png)
+<img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/67f040e5-8409-4e03-8f2d-ebd2dedcc948" />
+<img width="1366" height="667" alt="image" src="https://github.com/user-attachments/assets/52721451-902b-4132-a54f-8da9c0174aa9" />
+<img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/443eb563-bf04-4fb4-8f15-7a2151d70ec2" />
 
 ### Profil Pengguna
-![User Profile](screenshots/profile.png)
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/63665d62-c259-48d4-8d2a-4d17a3bb8591" />
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/3bdbd15c-a6cf-4328-8795-a58b16ed74c9" />
 
 ### Tampilan Mobile
-![Mobile View](screenshots/mobile-view.png)
+<img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/641ee2ea-c527-43d3-acac-c5e5f4e5eb29" />
 
-Terima Kasih
+### Tambah Barang (Admin)
+<img width="1366" height="683" alt="image" src="https://github.com/user-attachments/assets/3ee78708-92f3-4b02-b354-dc6dee4d6a5b" />
+
+### Ubah Barang (Admin)
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/9e513339-b5ff-483a-b44b-d8564edfb3df" />
+
+### Hapus Barang (Admin)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/96151098-b052-445c-99b6-2e8cfc17ee0a" />
+
+### Cari Barang (Admin)
+<img width="1362" height="679" alt="image" src="https://github.com/user-attachments/assets/00b61421-96d5-4bbc-9db8-b5d415dcf7a3" />
+
+### Halaman Admin
+<img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/57077dfd-51a7-40b6-91e4-06695977ce2c" />
+
+### Halaman User
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/a4c7a810-7de2-4cda-844a-7cf3657f911f" />
+
+### Halaman Logout user dan admin
+<img width="1365" height="666" alt="image" src="https://github.com/user-attachments/assets/60465569-00d4-4970-97f2-9dc449a8ab28" />
+<img width="1366" height="688" alt="image" src="https://github.com/user-attachments/assets/17a5948f-517d-4d47-8007-5f3431dcd4a1" />
+
+### Terima Kasih
