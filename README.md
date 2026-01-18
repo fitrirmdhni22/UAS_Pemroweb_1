@@ -243,7 +243,7 @@ location / {
 ### 2. Login ke Sistem
 1. **Sebagai Admin**
    - Username: `admin`
-   - Password: `password123`
+   - Password: `admin123`
    - Fitur yang tersedia:
      - Manajemen pengguna
      - Manajemen barang
@@ -252,7 +252,7 @@ location / {
 
 2. **Sebagai User Biasa**
    - Username: `user`
-   - Password: `password123`
+   - Password: `user123`
    - Fitur yang tersedia:
      - Melihat daftar barang
      - Mengedit profil sendiri
@@ -421,4 +421,5 @@ uas_web/
 <img width="1366" height="688" alt="image" src="https://github.com/user-attachments/assets/17a5948f-517d-4d47-8007-5f3431dcd4a1" />
 
 ### Terima Kasih
+
 
